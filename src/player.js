@@ -100,10 +100,10 @@ function Quiz() {
         <div className="container" style={{ textAlign: "center" }}>
           <p>{questions[currentQuestion].question} {questions[currentQuestion].hint && <span>(Hint: {questions[currentQuestion].hint})</span>}</p>
           {currentQuestion === 1 && (
-            <a href="https://www.space.com/" target="_blank" style={{ color: 'black' }}>click here for hint</a>
+            <a href="https://www.space.com/" target="_blank"  rel="noopener noreferrer" style={{ color: 'black' }}>click here for hint</a>
           )}
           {currentQuestion === 3 && (
-            <a href="https://www.dcode.fr/alien-language" target="_blank" style={{ color: 'black' }}>click here for hint</a>
+            <a href="https://www.dcode.fr/alien-language" target="_blank"  rel="noopener noreferrer" style={{ color: 'black' }}>click here for hint</a>
           )}
           <form onSubmit={handleAnswerSubmit}>
             <label htmlFor="riddle-answer">Your answer:</label>
