@@ -1,4 +1,4 @@
-#SPACE HUNT
+# SPACE HUNT
 This website has space related riddles and puzzles that one has to solve to win the game
 puzzles are based on anagrams,alien code (decryption), finding details on a external website and logical question
 user's time taken to finish the game is recorded
@@ -7,7 +7,8 @@ There are 3 attempts available for each question or puzzle except the last one.
 user has to create an account and then login to play the game. A restart option is given.
 Finally, User can see their scores and time taken to complete the task
 
-##To run the application 
+# To run the application 
+
 ### `npm start`
 
 Runs the app in the development mode.\
