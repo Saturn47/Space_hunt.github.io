@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": "rithika",
+      "name": "singh",
+      "password": "xyz",
+      "email": "xyz@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "xyz",
+      "password": "xyz",
+      "email": "xyz@gmail.com"
+    }
+  ]
+}
