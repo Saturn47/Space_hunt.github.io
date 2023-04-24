@@ -5,7 +5,7 @@ user's time taken to finish the game is recorded
 There are 3 attempts available for each question or puzzle except the last one.
 
 user has to create an account and then login to play the game. A restart option is given.
-Finally, User can see their scores and time taken to complete the task
+Finally, User can see their scores and time taken to complete the task.
 
 # To run the application 
 
