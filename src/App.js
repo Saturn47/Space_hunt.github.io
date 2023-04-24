@@ -11,7 +11,7 @@ function App() {
       <ToastContainer theme='colored' position='top-center'></ToastContainer>
       <BrowserRouter>
       <Routes>
-        <Route path='/login' element={<Login/>}></Route>
+        <Route path='/' element={<Login/>}></Route>
         <Route path='/register' element={<Register/>}></Route>
         <Route path='/player' element = {<Quiz/>}></Route>
       </Routes>

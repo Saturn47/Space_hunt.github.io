@@ -90,7 +90,7 @@ const Register = () => {
                         <br></br>
                         <div className="card-footer">
                             <button type="submit" className="btn btn-primary">Register</button>
-                            <Link to={'/login'} className="btn btn-success">Login</Link>
+                            <Link to={'/'} className="btn btn-success">Login</Link>
                         </div>
                 </form>
             </div>

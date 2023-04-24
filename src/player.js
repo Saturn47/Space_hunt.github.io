@@ -4,7 +4,7 @@ import { toast } from "react-toastify";
 function Quiz() {
   const [answer, setAnswer] = useState('');
   const [score, setScore] = useState(0);
-  const [questions, setQuestions] = useState([
+  const [questions] = useState([
     {
       question: 'Unscramble the word "Remote"',
       answer: 'meteor',
